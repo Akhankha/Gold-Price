@@ -1,2 +1,2 @@
 # Gold-Price
-Using a Linear ML model to predict the gold price 
+Gold price prediction using a Linear ML model. 
